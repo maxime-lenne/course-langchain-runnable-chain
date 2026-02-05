@@ -1,6 +1,8 @@
 ![LangChain](img/langchain.jpeg)
 
-Ce projet propose une introduction pédagogique à l'utilisation des **chaînes exécutables (Runnable Chains)** de **LangChain**, permettant de structurer des flux de traitement modulaires et réutilisables avec des LLMs.  
+Ce projet propose une introduction pédagogique à l'utilisation
+des **chaînes exécutables (Runnable Chains)** de **LangChain**,
+permettant de structurer des flux de traitement modulaires et réutilisables avec des LLMs.
 Il est conçu pour comprendre comment composer des étapes de traitement en chaînes exécutables.
 
 ## Objectifs pédagogiques
@@ -21,7 +23,7 @@ Il est conçu pour comprendre comment composer des étapes de traitement en cha�
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/maxime-lenne/course-langchain-runnable-chain
    cd runnable-chain
    ```
 
