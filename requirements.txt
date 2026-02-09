@@ -3,4 +3,5 @@ langchain-community
 langchain-openai
 langchain-deepseek
 langchain-ollama
+jupyter
 marimo
